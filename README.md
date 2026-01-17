@@ -3,7 +3,7 @@
 This is a dynamic and interactive e-commerce product showcase built using **HTML**, **CSS (Tailwind CSS)**, and **JavaScript**. It allows users to browse car products, add/remove items from the cart, view pricing details including tax, delivery, shipping, and even apply discounts on large orders.
 
 ---
-# live demo:
+# live demo: https://sitasib.github.io/CarZone/
 
 ## ✨ Features
 
